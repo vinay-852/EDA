@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+plotly
+ydata-profiling
+streamlit-pandas-profiling
+pydantic-settings
