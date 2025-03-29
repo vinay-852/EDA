@@ -1,7 +1,4 @@
-streamlit
-pandas
-numpy
-plotly
-ydata-profiling
-streamlit-pandas-profiling
-pydantic-settings
+streamlit  # Web application framework for building interactive apps
+pandas     # Data manipulation and analysis library
+plotly     # Interactive plotting library for visualizations
+dataprep   # Data preparation library for EDA and cleaning
