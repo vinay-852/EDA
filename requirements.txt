@@ -1,4 +1,2 @@
-streamlit  # Web application framework for building interactive apps
-pandas     # Data manipulation and analysis library
-plotly     # Interactive plotting library for visualizations
-dataprep   # Data preparation library for EDA and cleaning
+streamlit
+pandas
