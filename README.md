@@ -15,7 +15,7 @@ The Enhanced EDA App is a Streamlit-based web application designed to simplify e
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/vinay-852/EDA.git
    cd EDA
    ```
 
